@@ -1,5 +1,5 @@
 
-package ec.edu.espoch.conceptauto;
+package ec.edu.espoch.conceptauto.enumeration;
 
 
 public enum Color {
